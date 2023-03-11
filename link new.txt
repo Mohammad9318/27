@@ -1,0 +1,1 @@
+vless://7c7096fe-6cb2-46c5-bd22-73416e5f3998@v7.vahidflash2link.shop:2096?type=grpc&security=tls&serviceName=&sni=v7.vahidflash2link.shop#MTN2
